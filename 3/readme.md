@@ -6,7 +6,7 @@
 
 ### Варіант 2, модель у середовищі NetLogo:
 [Climate Change](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Climate%20Change.nlogo)
-Насправді, була обрана модель з 2 лабораторної роботи. Вона сильніше підходе для цієї лабораторної роботи і взагалі модифікована версія цікавіша.
+Насправді, була обрана модель з 1 лабораторної роботи. Вона сильніше підходе для цієї лабораторної роботи і взагалі модифікована версія цікавіша.
 <br>
 
 #### Вербальний опис моделі:
@@ -16,7 +16,7 @@
 
 **Обрана модель**:
 <pre>
-C:\Program Files\Climate_Change-ext.nlogo
+C:\Program Files\Climate_Change.nlogo
 </pre>
 **Параметри моделі** (вкладка Model):  
 <pre>
